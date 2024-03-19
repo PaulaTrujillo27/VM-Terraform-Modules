@@ -31,11 +31,11 @@ En cada carpeta creada anteriormente, crea los archivos main.tf, variables.tf, y
 
 Define las variables utilizadas en este proyecto en el archivo variables.tf.
 
-- Paso 3
+- Paso 3:
   
 Asigna valores a las variables en el archivo terraform.tfvars.
 
-- Paso 4
+- Paso 4:
   
 Define las instancias de Azure necesarias para crear la máquina virtual en el archivo main.tf.
 
